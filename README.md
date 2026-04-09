@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm VENKATESH RAVI </h1>
+<h1 align="center">Hi 👋, I'm VENKATESH RAVI </h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="500px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
