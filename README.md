@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working on  **Hyderabad Tea House**
 
-- 💬 Ask me about **React, Full Stack, Python, SQL, Power BI, AWS(EC2, S3, IAM)**
+- 💬 Ask me about **Java, Full Stack, Python, SQL, Power BI, AWS(EC2, S3, IAM)**
 
 - 📫 How to reach me **venkiravi796@gmail.com**
 
