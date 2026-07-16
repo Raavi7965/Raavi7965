@@ -23,8 +23,7 @@
 <br><br>
 
 ## Resume
-- 📄 Know about my Resume [Resume]([https://drive.google.com/file/d/1bYk2WYcICUDoW_hlUYsOFCrlmjRbs3sD/view?usp=sharing](https://drive.google.com/file/d/1zUGe1qI7GvDFUSn3mTsoV3nNfgfCmaaR/view?usp=sharing))
-
+- 📄 Know about my Resume [Resume](https://drive.google.com/file/d/1zUGe1qI7GvDFUSn3mTsoV3nNfgfCmaaR/view)
 ## Connect with 
 <p align="left">
 <a href="https://www.linkedin.com/in/raavivenkatesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkateshraavi" height="30" width="40" /></a>
