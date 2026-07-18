@@ -36,4 +36,13 @@
 <br><br>
 
 ## Github Stats  
-<p><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raavi7965&hide_border=true&layout=compact" align="center" style="width: 50%" /></div> </p>
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raavi7965&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raavi7965&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>  
